@@ -1,1 +1,5 @@
-This is a merge conflict
+The merge conflict is resolved! :D
+
+# References
+
+* octocat 1 😈
